@@ -1,4 +1,4 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
+*Write a short description about the course and add a link to your github repository here. "#Start I'm here trying to learn not only data science but using Github especially as well. Link to my Github repository: **https://github.com/HirnJoonas/IODS-project**" This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
