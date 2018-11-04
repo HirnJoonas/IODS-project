@@ -1,7 +1,7 @@
 
 # About the project
  
-Excercise for **Open Data Science course** 
+Exercise for **Open Data Science course** 
 
 # Start
 
