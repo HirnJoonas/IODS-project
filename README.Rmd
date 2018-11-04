@@ -1,0 +1,11 @@
+---
+output: github_document
+---
+
+Open Data Science course excercise text 
+
+**Test BOLDING**
+
+_Test ITALICS_
+
+https://github.com/HirnJoonas/IODS-project
