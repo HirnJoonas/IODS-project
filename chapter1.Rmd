@@ -1,12 +1,12 @@
 
 # About the project
  
-Excercise for Open Data Sciencer course 
+Excercise for **Open Data Science course** 
 
 # Start
 
 I'm here trying to learn not only (basics of) data science but using Github especially as well. 
 Link to my Github repository: 
 
-## https://github.com/HirnJoonas/IODS-project" 
+## https://github.com/HirnJoonas/IODS-project 
 
